@@ -8,12 +8,6 @@
 
 ---
 
-## 📌 Project Title
-
-**Cricket Data Analytics: Performance Insights & Best XI from T20 World Cup 2022**
-
----
-
 ## 📊 Project Summary
 
 This project delivers a complete **Cricket Analytics Dashboard** based on the **T20 World Cup 2022** using real match data scraped from ESPN. It provides a detailed breakdown of **individual and team performances**, using advanced data modeling and DAX calculations in Power BI. The project ends with an algorithmically chosen **Best XI** players based on performance statistics.
