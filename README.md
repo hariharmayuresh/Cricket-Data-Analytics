@@ -14,6 +14,16 @@ This project delivers a complete **Cricket Analytics Dashboard** based on the **
 
 ---
 
+<h3 align="center">🎥 Project Demo</h3>
+
+<p align="center">
+  <a href="Dashboard%20visualisation/Sample%20recording%20of%20project.mp4">
+    <img src="images/demo-thumbnail.png" width="60%" alt="Click to Watch Demo Video"/>
+  </a>
+</p>
+
+---
+
 ## 🚀 What I Did
 
 - 🔍 **Web Scraping**: Collected structured cricket data from the ESPNcricinfo website
