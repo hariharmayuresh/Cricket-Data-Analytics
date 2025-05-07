@@ -1,24 +1,32 @@
 # 🏏 Cricket Data Analytics Dashboard
 
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Power BI](https://img.shields.io/badge/Built%20with-Power%20BI-yellow)
-![Python](https://img.shields.io/badge/Language-Python-blue)
+![Built With](https://img.shields.io/badge/Tools-Python%2C%20JavaScript%2C%20Power%20BI-blue)
 ![Web Scraping](https://img.shields.io/badge/Technique-Web%20Scraping-orange)
 ![DAX](https://img.shields.io/badge/Power%20BI-DAX-critical)
 
 ---
 
-## 📊 Project Summary
+## 📌 Project Title
 
-This project delivers a complete **Cricket Analytics Dashboard** based on the **T20 World Cup 2022** using real match data scraped from ESPN. It provides a detailed breakdown of **individual and team performances**, using advanced data modeling and DAX calculations in Power BI. The project ends with an algorithmically chosen **Best XI** players based on performance statistics.
+**T20 World Cup Cricket Data Analytics – Team Selection & Dashboard with Python + Power BI**
 
 ---
 
-<h3 align="center">🎥 Project Demo</h3>
+## 📊 Project Summary
+
+This project provides a data-driven deep dive into the 2022 **T20 Cricket World Cup**, with a creative twist. It starts with scraping match and player data from **ESPNcricinfo**, processes the data using **Python (Pandas)**, and visualizes it via an **interactive Power BI dashboard**. It provides a detailed breakdown of **individual and team performances**, using advanced data modeling and DAX calculations in Power BI. The project ends with an algorithmically chosen **Best XI** players based on performance statistics.
+
+---
+
+## 📺 Project Demo
+
+▶️ **Watch the full video tutorial**:  
+**[https://youtu.be/lHt5LKJVODk?si=Ew5_YMwc_nBSjPr_](https://youtu.be/lHt5LKJVODk?si=Ew5_YMwc_nBSjPr_)**
 
 <p align="center">
-  <a href="Dashboard%20visualisation/Sample%20recording%20of%20project.mp4">
-    <img src="images/demo-thumbnail.png" width="60%" alt="Click to Watch Demo Video"/>
+  <a href="https://youtu.be/lHt5LKJVODk?si=Ew5_YMwc_nBSjPr_">
+    <img src="images/t20_dashboard_preview.png" width="70%" alt="Cricket Data Analytics Dashboard Preview">
   </a>
 </p>
 
@@ -35,13 +43,14 @@ This project delivers a complete **Cricket Analytics Dashboard** based on the **
 
 ---
 
-## 📈 Key Features
+## 🗝️ Key Features
 
-- **Individual Player Stats**: Runs, Strike Rate, Balls Faced, Wickets, Economy, Overs Bowled
-- **Team-wise Filters**: Filter insights based on team selection or match
-- **Performance KPIs**: Visual insights into top batsmen, bowlers, and all-rounders
-- **Timeline Analysis**: Match-wise performance throughout the tournament
-- **Best XI Team**: Data-driven selection of the best performing players
+- 📈 Power BI dashboard with filters for roles, countries, and metrics
+- 🏅 Role-based player analysis: openers, middle-order, finishers, all-rounders, bowlers
+- 📊 Performance KPIs: Batting average, strike rate, wickets, bowling economy, total runs.
+- 🔍 Timeline Analysis: Match-wise performance throughout the tournament
+- 🧠 Applied **DAX** to derive new metrics for meaningful insights
+- 🎯 Best XI Team: Data-driven selection of the best performing players
 
 ---
 
@@ -55,25 +64,19 @@ This project delivers a complete **Cricket Analytics Dashboard** based on the **
 
 ## 🛠️ Tools & Tech
 
-- 🐍 Python – Web Scraping (BeautifulSoup / Pandas)
-- 📊 Power BI – Dashboard & DAX Measures
-- 🌐 ESPNcricinfo – Data Source
-- 🧮 DAX – Calculated metrics (SR, Economy, AVG)
+- 🐍 **Python (Pandas)** – Data cleaning and transformation
+- 📊 **Power BI** – Dashboard creation and DAX metrics
+- 🌐 **ESPNcricinfo** – Data source
+- 🧮 **DAX** – Advanced measures and calculated fields (SR, Economy, AVG)
 
 ---
 
 ## 📊 Use Cases
 
-- Select top-performing players for specific roles
-- Compare players across teams and positions
-- Identify the most balanced playing XI based on stats
-- Support coaches, selectors, and analysts with data-backed decisions
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+- 🏏 Select top-performing players for specific roles
+- ⚖️ Compare players across teams and positions
+- 📊 Identify the most balanced playing XI based on stats
+- ⚙️ Support coaches, selectors, and analysts with data-backed decisions
 
 ---
 
