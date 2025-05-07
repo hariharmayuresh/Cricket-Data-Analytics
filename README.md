@@ -1,15 +1,17 @@
 # 🏏 Cricket Data Analytics Dashboard
 
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Built With](https://img.shields.io/badge/Tools-Python%2C%20JavaScript%2C%20Power%20BI-blue)
-![Web Scraping](https://img.shields.io/badge/Technique-Web%20Scraping-orange)
-![DAX](https://img.shields.io/badge/Power%20BI-DAX-critical)
+![Built With](https://img.shields.io/badge/Tools-Python%2C%20Power%20BI-blue)
+![Dashboard](https://img.shields.io/badge/Visualization-Power%20BI-yellow)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+
 
 ---
 
 ## 📌 Project Title
 
 **T20 World Cup Cricket Data Analytics – Team Selection & Dashboard with Python + Power BI**
+
 
 ---
 
@@ -57,7 +59,7 @@ This project provides a data-driven deep dive into the 2022 **T20 Cricket World 
 ## 📁 Files Included
 
 - `Cricket_T20_WC_2022.pbix` – Interactive Power BI Dashboard
-- `cricket_data.csv` – Scraped and preprocessed data used for modeling
+- `t20_files.csv` – Scraped and preprocessed data used for modeling
 - `README.md` – Project summary and guide
 
 ---
