@@ -23,12 +23,11 @@ This project provides a data-driven deep dive into the 2022 **T20 Cricket World 
 
 ## 📺 Project Demo
 
-▶️ **Watch the full video tutorial**:  
-**[https://youtu.be/lHt5LKJVODk?si=Ew5_YMwc_nBSjPr_](https://youtu.be/lHt5LKJVODk?si=Ew5_YMwc_nBSjPr_)**
+<h3 align="center">🎥 Cricket Data Analytics – T20 World Cup Dashboard</h3>
 
 <p align="center">
-  <a href="https://youtu.be/lHt5LKJVODk?si=Ew5_YMwc_nBSjPr_">
-    <img src="images/t20_dashboard_preview.png" width="70%" alt="Cricket Data Analytics Dashboard Preview">
+  <a href="https://www.youtube.com/watch?v=lHt5LKJVODk" target="_blank">
+    <img src="images/t20_dashboard_preview.png" width="70%" alt="Click to Watch Cricket Dashboard Demo">
   </a>
 </p>
 
