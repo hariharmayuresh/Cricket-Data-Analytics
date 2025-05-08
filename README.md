@@ -27,7 +27,7 @@ This project provides a data-driven deep dive into the 2022 **T20 Cricket World 
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=lHt5LKJVODk" target="_blank">
-    < alt="Click to Watch Cricket Dashboard Demo">
+    <img src="https://img.youtube.com/vi/lHt5LKJVODk/0.jpg" width="70%" alt="Click to Watch Cricket Dashboard Demo">
   </a>
 </p>
 
